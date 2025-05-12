@@ -26,6 +26,7 @@ Welcome to **ColorTick**, a Java-based application that combines a countdown tim
 - **Version Control:** Git & GitHub
 
 ---
+'''
 ColorTick/
 ├── src/ # Source code directory
 │ ├── TimerApp.java # Main application logic
@@ -33,8 +34,7 @@ ColorTick/
 ├── out/ # Compiled classes and output
 ├── Screenshot 2025-04-04.png # Screenshot of the main window
 └── README.md # Project documentation
-yaml
-
+'''
 ---
 
 ## 🚀 How to Run
